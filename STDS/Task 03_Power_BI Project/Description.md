@@ -1,12 +1,10 @@
 👗 Fashion Retail Analysis – SQL & Power BI Dashboard
 
-This project is a comprehensive fashion retail analytics solution that combines SQL for data preparation and analysis with Power BI for interactive dashboarding and visualization.
+This project is a comprehensive fashion retail analytics solution Power BI for interactive dashboarding and visualization.
 
 The dashboard provides deep insights into sales performance, profitability, product behavior, customer segments, and time-based trends, enabling stakeholders to make data-driven business decisions.
 
 🗄️ Data Preparation & SQL Analysis
-
-Before building the dashboards, the raw retail dataset was processed using SQL to:
 
 Clean and validate transactional data
 
@@ -141,4 +139,4 @@ Business intelligence best practices
 
 🎯 Project Objective
 
-The objective of this project is to showcase an end-to-end BI workflow, starting from raw data analysis using SQL to delivering professional, interactive Power BI dashboards that provide actionable insights for retail business performance.
+The objective of this project is to showcase an end-to-end BI workflow, interactive Power BI dashboards that provide actionable insights for retail business performance.
